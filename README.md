@@ -9,7 +9,7 @@
 
 <img align="right" height="300px" src="https://i.ibb.co/GFf3vm4/vegeta.png" />
 
-- 📫 My EMail 👉 : **Maxprajapati606@gmail.com**
+- 📫 My Email 👉 : **Maxprajapati606@gmail.com**
 
 - 📄 My Resume 👉 : [Resume](https://www.overleaf.com/project/668fdc1196060e0a4310c170)
 
