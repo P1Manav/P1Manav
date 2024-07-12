@@ -8,7 +8,7 @@
 
 - 📫 My EMail 👉 : **Maxprajapati606@gmail.com**
 
-- 📄 My Resume 👉 : [Resume](https://github.com/P1Manav/MY_PORTFOLIO/blob/0d12e376f3a7302c2669e728fe793190ead37793/RESUME.pdf)
+- 📄 My Resume 👉 : [Resume]<a href="https://github.com/P1Manav/MY_PORTFOLIO/blob/0d12e376f3a7302c2669e728fe793190ead37793/RESUME.pdf" download class="download-btn"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
