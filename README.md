@@ -1,4 +1,3 @@
-<img align="right" height="250px" src="https://i.ibb.co/GFf3vm4/vegeta.png" />
 
 <h1 align="center">Hi 👋, I'm Prajapati Manav</h1>
 <h3 align="center">3rd Year Student From Nirma University Pursing Computer Science</h3>
@@ -7,6 +6,8 @@
 - 🌱 I’m currently learning **Typescript And NextJs And Unity3d For Game Development**
 
 - 👨‍💻 My  PortFolio  👉 : [Manav.com](https://manavprajapati.vercel.app/)
+
+<img align="right" height="300px" src="https://i.ibb.co/GFf3vm4/vegeta.png" />
 
 - 📫 My EMail 👉 : **Maxprajapati606@gmail.com**
 
