@@ -1,3 +1,5 @@
+<img align="right" height="450px" src="https://i.ibb.co/GFf3vm4/vegeta.png" />
+
 <h1 align="center">Hi 👋, I'm Prajapati Manav</h1>
 <h3 align="center">3rd Year Student From Nirma University Pursing Computer Science</h3>
 
