@@ -34,5 +34,5 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=DhruvilKakadiya7&layout=compact&langs_count=6&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
+<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=P1Manav&layout=compact&langs_count=6&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
 
