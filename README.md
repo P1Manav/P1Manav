@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Prajapati Manav</h1>
 <h3 align="center">3rd Year Student From Nirma University Pursing Computer Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=p1manav&label=Profile%20views&color=0e75b6&style=flat" alt="p1manav" /> </p>
 
 - 🌱 I’m currently learning **Typescript And NextJs And Unity3d For Game Development**
 
-- 👨‍💻 All of my projects are available at [My  PortFolio](https://manavprajapati.vercel.app/)
+- 👨‍💻 My  PortFolio  👉 : [Manav.com](https://manavprajapati.vercel.app/)
 
-- 📫 How to reach me **Maxprajapati606@gmail.com**
+- 📫 My EMail 👉 : **Maxprajapati606@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.overleaf.com/read/hkrqpqnwjjkp#507329)
+- 📄 My Resume 👉 : [Resume](https://github.com/P1Manav/MY_PORTFOLIO/blob/0d12e376f3a7302c2669e728fe793190ead37793/RESUME.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,10 +28,12 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="background-color:white"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" alt="unity" width="40" height="40"/> </a> 
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1481028548085583873/F1TrFReK_400x400.jpg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
 <img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=P1Manav&layout=compact&langs_count=6&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
 
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
