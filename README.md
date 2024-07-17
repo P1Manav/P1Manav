@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Prajapati Manav</h1>
 <h3 align="center">3rd Year Student From Nirma University Pursing Computer Science</h3>
 
-
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=P1Manav&label=Profile%20views&color=0047AB&style=plastic?" alt="Prajapati Manav" height=25px, width=160px/> 
+</p>
 - 🌱 I’m currently learning **Typescript And NextJs And Unity3d For Game Development**
 
 - 👨‍💻 My  PortFolio  👉 : [Manav.com](https://manavprajapati.vercel.app/)
