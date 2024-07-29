@@ -13,7 +13,7 @@
 
 - 📫 My Email 👉 : **Maxprajapati606@gmail.com**
 
-- 📄 My Resume 👉 : [Resume](https://www.overleaf.com/project/668fdc1196060e0a4310c170)
+- 📄 My Resume 👉 : [Resume](https://drive.google.com/file/d/1wua__Ci0OPOZR9hyn4j4hWQZohkI_Bwj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
