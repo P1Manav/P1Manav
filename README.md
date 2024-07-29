@@ -75,5 +75,14 @@
 </a>
 </span>
 
+<span>
+<a href="https://codeforces.com/profile/_GoDGaMerS_">
+<img height="322" src="stats/codeforces_stats.svg" alt="Manav's Codeforces Stats"/>
+</a>
+<a href="https://leetcode.com/P_Manav">
+<img height="322" src="stats/leetcode_stats.svg" alt="Manav's Leetcode Stats"/>
+</a>
+</span>
+
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
