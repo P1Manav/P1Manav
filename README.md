@@ -68,7 +68,12 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<img height="185" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=P1Manav&layout=compact&langs_count=6&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
+<span>
+<a href="https://github.com/P1Manav">
+<img height="174" src="stats/github_stats.svg" alt="Manav's Github Stats" />
+<img height="174" src="stats/top_langs.svg" alt="Manav's Github Top Languages" />
+</a>
+</span>
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
