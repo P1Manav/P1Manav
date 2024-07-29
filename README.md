@@ -70,17 +70,17 @@
 
 <span>
 <a href="https://github.com/P1Manav">
-<img height="174" src="stats/github_stats.svg" alt="Manav's Github Stats" />
-<img height="174" src="stats/top_langs.svg" alt="Manav's Github Top Languages" />
+<img height="174" src="https://github.com/RedHeadphone/RedHeadphone/blob/master/stats/github_stats.svg" alt="Manav's Github Stats" />
+<img height="174" src="https://github.com/RedHeadphone/RedHeadphone/blob/master/stats/top_langs.svg" alt="Manav's Github Top Languages" />
 </a>
 </span>
 
 <span>
 <a href="https://codeforces.com/profile/_GoDGaMerS_">
-<img height="322" src="stats/codeforces_stats.svg" alt="Manav's Codeforces Stats"/>
+<img height="322" src="https://github.com/RedHeadphone/RedHeadphone/blob/master/stats/codeforces_stats.svg" alt="Manav's Codeforces Stats"/>
 </a>
 <a href="https://leetcode.com/P_Manav">
-<img height="322" src="stats/leetcode_stats.svg" alt="Manav's Leetcode Stats"/>
+<img height="322" src="https://github.com/RedHeadphone/RedHeadphone/blob/master/stats/leetcode_stats.svg" alt="Manav's Leetcode Stats"/>
 </a>
 </span>
 
