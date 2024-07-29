@@ -68,21 +68,6 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<span>
-<a href="https://github.com/P1Manav">
-<img height="174" src="https://github.com/RedHeadphone/RedHeadphone/blob/master/stats/github_stats.svg" alt="Manav's Github Stats" />
-<img height="174" src="https://github.com/RedHeadphone/RedHeadphone/blob/master/stats/top_langs.svg" alt="Manav's Github Top Languages" />
-</a>
-</span>
-
-<span>
-<a href="https://codeforces.com/profile/_GoDGaMerS_">
-<img height="322" src="https://github.com/RedHeadphone/RedHeadphone/blob/master/stats/codeforces_stats.svg" alt="Manav's Codeforces Stats"/>
-</a>
-<a href="https://leetcode.com/P_Manav">
-<img height="322" src="https://github.com/RedHeadphone/RedHeadphone/blob/master/stats/leetcode_stats.svg" alt="Manav's Leetcode Stats"/>
-</a>
-</span>
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
