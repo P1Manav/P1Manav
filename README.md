@@ -70,4 +70,9 @@
 
 
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+
+## 📊 Github Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P1Manav&show_icons=true&theme=transparent&layout=donut)
           
