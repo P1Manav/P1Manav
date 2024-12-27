@@ -9,7 +9,7 @@
 
 - 👨‍💻 My  PortFolio  👉 : [Manav.com](https://manavprajapati.vercel.app/)
 
-<img align="right" height="500px" src="https://i.ibb.co/GFf3vm4/vegeta.png" />
+<img align="right" height="300px" src="https://i.pinimg.com/736x/ff/26/a0/ff26a07c174ca4e30eaee79f06dbdcda.jpg" />
 
 - 📫 My Email 👉 : **Maxprajapati606@gmail.com**
 
