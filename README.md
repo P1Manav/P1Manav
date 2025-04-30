@@ -74,5 +74,7 @@
 
 ## 📊 Github Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P1Manav&show_icons=true&theme=transparent&layout=donut)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P1Manav&layout=donut&theme=transparent&v=1)
+
+
           
