@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Prajapati Manav</h1>
-<h3 align="center">3rd Year Student From Nirma University Pursing Computer Science</h3>
+<h3 align="center">4th Year Student From Nirma University Pursing Computer Science</h3>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=P1Manav&label=Profile%20views&color=0047AB&style=plastic?" alt="Prajapati Manav" height=25px, width=160px/> 
@@ -24,7 +24,7 @@
 &nbsp
 <a href="https://instagram.com/p._.manav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p._.manav" height="30" width="40" /></a>
 &nbsp
-<a href="https://codeforces.com/profile/_godgamers_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_godgamers_" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/p_manav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_godgamers_" height="30" width="40" /></a>
 &nbsp
 <a href="https://www.leetcode.com/p_manav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="p_manav" height="30" width="40" /></a>
 &nbsp
