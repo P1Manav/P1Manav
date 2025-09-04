@@ -13,8 +13,8 @@
 
 - 📫 My Email 👉 : **Maxprajapati606@gmail.com**
 
-<!-- - - 📄 My SWE Resume 👉 : [Resume](https://drive.google.com/file/d/1GbVa34UX0krpgevyklGF5siJOl4YtuqL/view?usp=sharing)-->
-<!-- - - 📄 My VLSI(Hardware) Resume 👉 : [Resume](https://drive.google.com/file/d/145qwXQSqHWiZbKTNMSWuBqgfB47zy7zD/view?usp=sharing)-->
+<!-- - - 📄 My SWE Resume 👉 : [Resume](https://drive.google.com/file/d/1Fs0EggyUT0qvb0WUSYBrONl6H66MIw5D/view?usp=sharing)-->
+<!-- - - 📄 My VLSI(Hardware) Resume 👉 : [Resume](https://drive.google.com/file/d/1NVmVoe2Z4lY82mUBXS_shTzbOviBQl7b/view?usp=sharing)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
