@@ -7,16 +7,13 @@
 
 <!-- - - 📄 My SWE Resume 👉 : [Resume](https://drive.google.com/file/d/1Fs0EggyUT0qvb0WUSYBrONl6H66MIw5D/view?usp=sharing)-->
 <!-- - - 📄 My VLSI(Hardware) Resume 👉 : [Resume](https://drive.google.com/file/d/1NVmVoe2Z4lY82mUBXS_shTzbOviBQl7b/view?usp=sharing)-->
-<h2 align="left">Hi 👋! My name is Manav Prajapati and I'm a 4th Year CSE Student, from Nirma University</h2>
-
-
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=P1Manav&label=Profile%20views&color=0047AB&style=plastic?" alt="P1Manav" height=25px, width=160px/> 
 </p>
 
+<h2 align="left">Hi 👋! My name is Manav Prajapati and I'm a 4th Year CSE Student, from Nirma University</h2>
 
 <img align="right" height="350" src="https://i.pinimg.com/736x/ff/26/a0/ff26a07c174ca4e30eaee79f06dbdcda.jpg"  />
-
 
 <div align="left">
 	<a href="https://www.instagram.com/p._.manav/">
@@ -29,7 +26,10 @@
 	<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 	</a>
 	<a href="https://www.linkedin.com/in/manavdprajapati/">
-	<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+	<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=Linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+	</a>
+	<a href="https://pmanav.vercel.app/">
+	<img src="https://img.shields.io/static/v1?message=Porfolio&logo=linkedin&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 	</a>
 </div>
 
