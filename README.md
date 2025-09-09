@@ -5,8 +5,8 @@
 <img align="right" height="400px" src="https://i.pinimg.com/736x/ff/26/a0/ff26a07c174ca4e30eaee79f06dbdcda.jpg" />
 -->
 
-<!-- - - 📄 My SWE Resume 👉 : [Resume](https://drive.google.com/file/d/1Fs0EggyUT0qvb0WUSYBrONl6H66MIw5D/view?usp=sharing)-->
-<!-- - - 📄 My VLSI(Hardware) Resume 👉 : [Resume](https://drive.google.com/file/d/1NVmVoe2Z4lY82mUBXS_shTzbOviBQl7b/view?usp=sharing)-->
+<!-- - - 📄 My SWE Resume 👉 : [Resume](https://drive.google.com/file/d/1cCksH9hlTF1beJH0raVJTCKHk1fo0lTs/view?usp=sharing)-->
+<!-- - - 📄 My VLSI(Hardware) Resume 👉 : [Resume](https://drive.google.com/file/d/1lt1YnKF4l0WbhT0hn6UFE3rpWBDa0eDt/view?usp=sharing)-->
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=P1Manav&label=Profile%20views&color=0047AB&style=plastic?" alt="P1Manav" height=25px, width=160px/> 
 </p>
