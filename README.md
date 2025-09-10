@@ -15,6 +15,8 @@
 
 <img align="right" height="350" src="https://i.pinimg.com/736x/ff/26/a0/ff26a07c174ca4e30eaee79f06dbdcda.jpg"  />
 
+
+## 🔗 Connect With Me
 <div align="left">
 	<a href="https://www.instagram.com/p._.manav/">
 	<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -33,6 +35,15 @@
 	</a>
 </div>
 
+## 🔗 Add Me
+
+<div align="left">
+  
+  [![Codeforces](https://img.shields.io/badge/Codeforces-white?style=for-the-badge&logo=Codeforces&logoColor=red)](https://codeforces.com/profile/P_Manav)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/P_Manav)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/p_manav)
+  
+</div>
 
 
 
