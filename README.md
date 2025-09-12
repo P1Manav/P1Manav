@@ -11,9 +11,17 @@
 	<img src="https://komarev.com/ghpvc/?username=P1Manav&label=Profile%20views&color=0047AB&style=plastic?" alt="P1Manav" height=25px, width=160px/> 
 </p>
 
-<h2 align="left">Hi 👋! My name is Manav Prajapati and I'm a 4th Year CSE Student, from Nirma University</h2>
+<h2 align="left">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I am Manav Prajapati</h2>
 
-<img align="right" height="350" src="https://i.pinimg.com/736x/ff/26/a0/ff26a07c174ca4e30eaee79f06dbdcda.jpg"  />
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=4th+Year+Computer+Science+Student;Competitive+Programmer;Expert+on+Codeforces;5+⭐+on+CodeChef;Guardian+on+LeetCode;Always+learning+new+things"></a>
+</p>
+
+## Welcome to my GitHub profile!
+- 🚀 A Final year BTech Undergraduate at Nirma University, Ahmedabad.
+- 👨🏻‍🎓 Majors in Computer Science and Engineering.
+- 👨🏻‍🎓 Minors in VLSI Design.
+- 👀 Love building and deploying Tech solutions to solve real-world problems.
 
 
 ## 🔗 Connect With Me
@@ -35,7 +43,7 @@
 	</a>
 </div>
 
-## 🔗 Add Me
+## 🌐 Add Me
 
 <div align="left">
   
@@ -45,6 +53,7 @@
   
 </div>
 
+<img align="right" height="450" src="https://i.pinimg.com/736x/ff/26/a0/ff26a07c174ca4e30eaee79f06dbdcda.jpg"  />
 
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
