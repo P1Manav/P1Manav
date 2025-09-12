@@ -22,6 +22,9 @@
 - 👨🏻‍🎓 Majors in Computer Science and Engineering.
 - 👨🏻‍🎓 Minors in VLSI Design.
 - 👀 Love building and deploying Tech solutions to solve real-world problems.
+- 🔭 I’m currently open to a new Job
+- 📫 Reach me at maxprajapati606@gmail.com or [LinkedIn](https://www.linkedin.com/in/manavdprajapati/)
+- ⚡ To know more visit my [PortFolio](https://pmanav.vercel.app/)
 
 
 ## 🔗 Connect With Me
