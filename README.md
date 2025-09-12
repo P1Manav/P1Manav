@@ -56,7 +56,7 @@
   
 </div>
 
-<img align="right" height="450" src="https://i.pinimg.com/736x/ff/26/a0/ff26a07c174ca4e30eaee79f06dbdcda.jpg"  />
+<img align="right" height="350" src="https://i.pinimg.com/736x/ff/26/a0/ff26a07c174ca4e30eaee79f06dbdcda.jpg"  />
 
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
