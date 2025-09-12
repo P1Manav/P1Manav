@@ -61,7 +61,7 @@
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-<div align="center">
+<div align="left">
 	
   <img src="https://streak-stats.demolab.com?user=P1Manav&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
@@ -72,7 +72,7 @@
 ----
 	
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=P1Manav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=P1Manav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -81,7 +81,7 @@
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 ----
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app?username=P1Manav&theme=dracula&column=4&row=2&margin-w=15&margin-h=15&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </p>
 	
