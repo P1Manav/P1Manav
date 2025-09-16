@@ -59,14 +59,13 @@
 <img align="right" height="350" src="https://i.pinimg.com/736x/ff/26/a0/ff26a07c174ca4e30eaee79f06dbdcda.jpg"  />
 
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<!---<details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 <div align="left">
-	
-  <img src="https://streak-stats.demolab.com?user=P1Manav&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+	<img src="https://streak-stats.demolab.com/?user=P1Manav&theme=dracula&hide_border=false" alt="streak graph" />
 </div>
 </details>
-  
+  -->
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
