@@ -42,7 +42,7 @@
 	<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=Linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 	</a>
 	<a href="https://pmanav.vercel.app/">
-	<img src="https://img.shields.io/static/v1?message=Porfolio&logo=linkedin&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+	<img src="https://img.shields.io/static/v1?message=Portfolio&logo=linkedin&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 	</a>
 </div>
 
