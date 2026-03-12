@@ -24,7 +24,7 @@
 - 👀 Love building and deploying Tech solutions to solve real-world problems.
 - 🔭 I’m currently open to a new Job
 - 📫 Reach me at maxprajapati606@gmail.com or [LinkedIn](https://www.linkedin.com/in/manavdprajapati/)
-- ⚡ To know more visit my [PortFolio](https://pmanav.vercel.app/)
+- ⚡ To know more visit my [PortFolio](https://pmanav.xyz/)
 
 
 ## 🔗 Connect With Me
@@ -41,7 +41,7 @@
 	<a href="https://www.linkedin.com/in/manavdprajapati/">
 	<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=Linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 	</a>
-	<a href="https://pmanav.vercel.app/">
+	<a href="https://pmanav.xyz/">
 	<img src="https://img.shields.io/static/v1?message=Portfolio&logo=linkedin&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 	</a>
 </div>
