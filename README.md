@@ -52,21 +52,7 @@
   </a>
 </p>
 
-<img align="right" height="300" src="https://i.pinimg.com/736x/ff/26/a0/ff26a07c174ca4e30eaee79f06dbdcda.jpg" alt="Profile illustration" />
+<p align="center">
+  <img height="600" src="https://i.pinimg.com/736x/ff/26/a0/ff26a07c174ca4e30eaee79f06dbdcda.jpg" alt="Profile illustration" />
+</p>
 
-<details open>
-  <summary><h3>💻 GitHub Profile Stats</h3></summary>
-  <br/>
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=P1Manav&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=P1Manav&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
-  </p>
-</details>
-
-<details open>
-  <summary><h3>🏆 Git Profile Trophies</h3></summary>
-  <br/>
-  <p align="left">
-    <img src="https://github-profile-trophy.vercel.app?username=P1Manav&theme=dracula&column=4&row=2&margin-w=15&margin-h=15&no-bg=false&no-frame=false&order=4" height="150" alt="Trophies" />
-  </p>
-</details>
