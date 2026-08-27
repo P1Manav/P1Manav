@@ -14,11 +14,11 @@
 <h2 align="left">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I am Manav Prajapati</h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=4th+Year+Computer+Science+Student;Competitive+Programmer;Expert+on+Codeforces;5+⭐+on+CodeChef;Guardian+on+LeetCode;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Batch 2026+Graduate+Computer+Science+Fresher;Competitive+Programmer;Expert+on+Codeforces;5+⭐+on+CodeChef;Guardian+on+LeetCode;Always+learning+new+things"></a>
 </p>
 
 ## Welcome to my GitHub profile!
-- 🚀 A Final year BTech Undergraduate at Nirma University, Ahmedabad.
+- 🚀 A BTech Undergraduate From Nirma University(Batch 2022-2026), Ahmedabad.
 - 👨🏻‍🎓 Majors in Computer Science and Engineering.
 - 👨🏻‍🎓 Minors in VLSI Design.
 - 👀 Love building and deploying Tech solutions to solve real-world problems.
